@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm a Emmanuel Michael.</h2>
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there! I'm Emmanuel Michael.</h2>
 <p>A web developer with a passion for:</p>
 - Backend engineering using Python and its frameworks like Django, Flask, Express, and RestAPI.<br/>
 - On the frontend side, I love working with JavaScript and frameworks such as Svelte, React, Next and React-Native. <br/>
